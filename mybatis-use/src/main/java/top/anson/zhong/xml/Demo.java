@@ -1,10 +1,10 @@
-package zhong.anson.xml;
+package top.anson.zhong.xml;
 
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.apache.ibatis.session.SqlSessionFactoryBuilder;
-import zhong.anson.xml.dao.AreaMapper;
+import top.anson.zhong.xml.dao.AreaMapper;
 
 import java.io.IOException;
 import java.io.InputStream;

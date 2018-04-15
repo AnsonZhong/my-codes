@@ -1,4 +1,4 @@
-package zhong.anson.xml.model;
+package top.anson.zhong.xml.model;
 
 public class Area {
     private int id;

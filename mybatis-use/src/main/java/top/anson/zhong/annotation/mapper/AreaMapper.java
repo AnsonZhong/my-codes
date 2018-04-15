@@ -1,4 +1,4 @@
-package zhong.anson.annotation.mapper;
+package top.anson.zhong.annotation.mapper;
 
 import org.apache.ibatis.annotations.Select;
 

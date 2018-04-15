@@ -1,4 +1,4 @@
-package zhong.anson.annotation;
+package top.anson.zhong.annotation;
 
 import com.mysql.jdbc.jdbc2.optional.MysqlDataSource;
 import org.apache.ibatis.mapping.Environment;
@@ -8,7 +8,7 @@ import org.apache.ibatis.session.SqlSessionFactory;
 import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import org.apache.ibatis.transaction.TransactionFactory;
 import org.apache.ibatis.transaction.jdbc.JdbcTransactionFactory;
-import zhong.anson.annotation.mapper.AreaMapper;
+import top.anson.zhong.annotation.mapper.AreaMapper;
 
 public class Demo {
 
